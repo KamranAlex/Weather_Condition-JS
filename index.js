@@ -1,5 +1,5 @@
 const apiKEY = "5613eebc7d0463f55490589b65f0b5c9";
-const apiURL = "http://api.openweathermap.org/data/2.5/weather";
+const apiURL = "https://api.openweathermap.org/data/2.5/weather";
 
 //Fetch The weather Data
 const requestCity = async (city) => {
